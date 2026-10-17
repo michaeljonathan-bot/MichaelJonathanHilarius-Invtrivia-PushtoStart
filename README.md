@@ -1,6 +1,7 @@
 # MichaelJonathanHilarius-Invtrivia-PushtoStart
 ***IDENTITAS DIRI***
 Nama: Michael Jonathan Hilarius
+NIM: 265150301111035
 Program Studi: Teknik Komputer
 Universitas: Universitas Brawijaya
 Angkatan: 2026
